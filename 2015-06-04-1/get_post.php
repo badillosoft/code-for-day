@@ -1,5 +1,8 @@
 <?php
 
+// Alan Badillo Salas
+// @badillosoft | badillo.soft@hotmail.com
+
 // Definimos una función para obtener una variable a través de get o post
 // Adicionalmente si la variable no está definida o el método es inválido
 // devolvemos un JSON con argumentos de error y mensaje
