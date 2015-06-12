@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>16E09E4C-6181-4021-A998-0CA7C9D583AE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>encrypt</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F6A7F899E2DE9E4B2038C928941ACED88E05720D</key>
+		<string>https://github.com/badillosoft/code-for-day</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>2015-06-8-2/encrypt.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F6A7F899E2DE9E4B2038C928941ACED88E05720D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/badillosoft/code-for-day</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F6A7F899E2DE9E4B2038C928941ACED88E05720D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F6A7F899E2DE9E4B2038C928941ACED88E05720D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>code-for-day</string>
+		</dict>
+	</array>
+</dict>
+</plist>
