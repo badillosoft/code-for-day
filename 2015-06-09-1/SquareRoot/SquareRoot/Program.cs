@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Alan Badillo Salas
+// @badillo.soft | badillo.soft@hotmail.com
+
+using System;
 
 namespace SquareRoot
 {
