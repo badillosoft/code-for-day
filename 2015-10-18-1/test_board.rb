@@ -41,7 +41,7 @@ begin
 		reset(board)
 		suffle(board, 10000)
 	when :suffle
-		suffle(board, 10000)
+		suffle(board, data.a)
 	when :set
 		index = Index.new(data.a, data.b) 
 		board[index] = data.c
