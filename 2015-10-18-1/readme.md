@@ -8,7 +8,7 @@ For test the game open a terminal and execute:
 $ruby test_board.rb
 ~~~
 
-New board and a internatl prompt open on the terminal
+New board appear, and one prompt open next it
 like this:
 
 ~~~bash
@@ -21,7 +21,7 @@ like this:
 :> 
 ~~~
 
-On the prompt you can write any of next commands:
+On the prompt you can write any of the next commands:
 
 * __exit__ - Quit the game
 * __new__ - Reset the game
