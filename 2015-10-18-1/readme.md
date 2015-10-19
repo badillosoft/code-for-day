@@ -23,19 +23,19 @@ like this:
 
 On the prompt you can write any of next commands:
 
-* exit - Quit the game
-* new - Reset the game
-* w - Move-Up the 0
-* s - Move-Down the 0
-* a - Move-Left the 0
-* d - Move-Right the 0
-* up / down / right / left - Move-X the selected position (the red cell)
-* swap a b c d - Move the (a, b) to (c, d)
-* put a - Put a number on the selected position (the red cell)
-* p - abbreviation of put
-* set a b value - Set value in (a, b) position
-* select a b - Select the (a, b) position (set the new selected position)
-* magnet - Change the magnet property of the selected cell,
+* __exit__ - Quit the game
+* __new__ - Reset the game
+* __w__ - Move-Up the 0
+* __s__ - Move-Down the 0
+* __a__ - Move-Left the 0
+* __d__ - Move-Right the 0
+* __up / down / right / left__ - Move-X the selected position (the red cell)
+* __swap a b c d__ - Move the (a, b) to (c, d)
+* __put a__ - Put a number on the selected position (the red cell)
+* __p__ - abbreviation of put
+* __set a b value__ - Set value in (a, b) position
+* __select a b__ - Select the (a, b) position (set the new selected position)
+* __magnet__ - Change the magnet property of the selected cell,
 	if the magnet is true the number associated swaps with
 	the selected position, else the selected position is independient
-* suffle n - Apply n-moves in random direccion of the selected position 
+* __suffle n__ - Apply n-moves in random direccion of the selected position 
