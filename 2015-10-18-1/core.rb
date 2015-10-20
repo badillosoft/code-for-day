@@ -1,3 +1,7 @@
+# Alan Badillo Salas
+# @badillo.soft | badillo.soft@hotmail.com
+# Octubre 2015
+
 def get_command
 	print ":> "
 	args = gets.split

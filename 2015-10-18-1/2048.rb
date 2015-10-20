@@ -1,3 +1,7 @@
+# Alan Badillo Salas
+# @badillo.soft | badillo.soft@hotmail.com
+# Octubre 2015
+
 require_relative 'board'
 
 class Board2048 < Board

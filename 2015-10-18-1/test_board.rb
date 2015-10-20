@@ -1,3 +1,50 @@
+# Alan Badillo Salas
+# @badillo.soft | badillo.soft@hotmail.com
+# Octubre 2015
+
+=begin
+
+El siguiente programa crea un tablero de 4x4 para simular un puzzle
+El programa imprime el tablero y espera un comando del usuario
+Cada comando puede recibir atributos, por ejemplo
+	Para crear un nuevo juego
+	:> new
+	Para salir
+	:> exit
+	Para ajustar el valor de 3 en la posición (1, 1)
+	:> set 1 1 3
+	Para intercambiar la posición (1, 1) con la (2, 2)
+	:> swap 1 1 2 2
+	Para cambiar el tamaño del tablero a 5x10
+	:> new_size 5 10
+	Para revolver el tablero 10 veces
+	:> suffle 10
+	Para seleccionar la posición (1, 1) del tablero
+	:> select 1 1
+	Para evitar que las piezas se muevan junto a la pieza seleccionada
+	:> magnet 0
+	:> m 0
+	Para invertir el magnetismo de las piezas con la seleccionada
+	:> magnet
+	:> m
+	Para poner el número 5 en la pieza seleccionada
+	:> put 5
+	:> p 5
+	:> 5
+	Para mover la pieza seleccionada arriba
+	:> up
+	:> w
+	Para mover la pieza seleccionada abajo
+	:> down
+	:> s
+	Para mover la pieza seleccionada a la izquierda
+	:> left
+	:> a
+	Para mover la pieza seleccionada a la derecha
+	:> right
+	:> d
+=end 
+
 require_relative 'board'
 require_relative 'core'
 

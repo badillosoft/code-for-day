@@ -1,3 +1,7 @@
+# Alan Badillo Salas
+# @badillo.soft | badillo.soft@hotmail.com
+# Octubre 2015
+
 class Index
 	def initialize(row = 0, col = 0, board = nil)
 		@row = row
@@ -68,6 +72,12 @@ class Index
 		else
 			move! ([:up, :down, :right, :left].sort_by { rand }).first
 		end
+	end
+	
+	def move(direction = nil)
+		index = self.clone
+		index.move!(direction)
+		return index
 	end
 	
 	def up?; @row > 0 end
