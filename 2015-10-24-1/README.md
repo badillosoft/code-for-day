@@ -4,11 +4,11 @@ Alan Badillo Salas | [@badillosoft](https://twitter.com/badillosoft) | [badillo
 
 ## Introducción
 
-Los siguientes códigos resulven trabajan con matrices de *nxm*
-dadas por el usuario desde la entrada estándar y permiten realizar
+Los siguientes códigos trabajan con matrices de *nxm*
+dadas por el usuario, desde la entrada estándar y permiten realizar
 diversas operaciones entre matrices y escalares.
 
-Este proyecto pertenece al proyecto [Code-For-Day](https://github.com/badillosoft/code-for-day) disponible en __Github__.
+Estos códigos pertenecen al proyecto [Code-For-Day](https://github.com/badillosoft/code-for-day) disponible en __Github__.
 
 ## Resolver un sistema de ecuaciones
 
@@ -33,7 +33,7 @@ Podemos resolver un sistema de ecuaciones mediante el programa __*cramer.rb*__.
 4 10
 ~~~
 
-> Ejecutamos el programa cramer.rb
+> Ejecutamos el programa *cramer.rb*
 
 ~~~bash
 $ ruby cramer.rb < data
