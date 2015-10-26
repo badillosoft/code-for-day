@@ -1,6 +1,6 @@
 # Solucionador de Matrices
 
-Alan Badillo Salas | @badillosoft | badillo.soft@hotmail.com
+Alan Badillo Salas | [@badillosoft](https://twitter.com/badillosoft) | [badillo.soft@hotmail.com](mailto:badillo.soft@hotmail.com)
 
 ## Introducción
 
