@@ -125,7 +125,7 @@ class Matrix
 	def replace_col!(j, vec)
 		(0...@n).each do |i|
 			(0...@m).each do |jj|
-				@mat[i, j] = vec[i] if j == jj
+				@mat[i][j] = vec[i] if j == jj
 			end
 		end
 	end
